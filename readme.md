@@ -7,8 +7,3 @@ Zudem sind im Unterordner `src` die Klassen als Java Dateien vorhanden. Dort fin
 Bis am Freitag
 
  <img src="https://i.imgur.com/WGH7f5T.png">
- 
- 
- ##### Html-Version
- 
- <div w3-include-html="Übungsblatt 8.html"></div>
